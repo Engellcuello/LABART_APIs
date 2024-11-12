@@ -1,1 +1,0 @@
-#aqui va el codigo de cada tabla con sus consultas
