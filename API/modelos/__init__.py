@@ -1,1 +1,1 @@
-#creacion del init de modelos
+from .modelos import *
